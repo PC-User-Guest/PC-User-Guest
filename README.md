@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building pipelines.<br>👯 I’m looking to collaborate on Data Engineering projects.<br>🤝 I’m looking for help with internships where I can apply my skills.<br>🌱 I’m currently learning how to be a better Data Engineer.<br>💬 Ask me about SQL, Python, or Cloud Technologies.<br>⚡ Fun fact: I like heavy machinery.
+🔭 I’m am a Data Analyst.<br>👯 I’m looking to collaborate on Data Engineering projects.<br>🤝 I’m continuously looking for projects where I can contribute and apply my skills.<br>🌱 I’m currently learning and working my way towards becoming a Data Engineer.<br>💬 Ask me about SQL, Python, Power BI or Cloud Technologies.<br>⚡ Fun fact: I like heavy machinery.
 
 
 # 💻 Tech Stack:
