@@ -1,28 +1,57 @@
-# 💫 About Me:
-🔭 I’m am a Data Analyst.<br>👯 I’m looking to collaborate on Data Engineering projects.<br>🤝 I’m continuously looking for projects where I can contribute and apply my skills.<br>🌱 I’m currently learning and working my way towards becoming a Data Engineer.<br>💬 Ask me about SQL, Python, Power BI or Cloud Technologies.<br>⚡ Fun fact: I like heavy machinery.
+# 👋 Hello, I'm Malwandla Rikhotso
 
+**Data Engineer | Architecting Scalable Pipelines | Cloud-Native Implementation**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PC-User-Guest&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PC-User-Guest&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PC-User-Guest&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PC-User-Guest&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PC-User-Guest&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I design, build, and maintain production-grade data infrastructure. With a strong foundation in data analysis and a deep focus on engineering best practices, I specialize in transforming complex business problems into reliable, automated, and maintainable data solutions. My work bridges the gap between raw data and actionable intelligence, enabling organizations to make faster, data-driven decisions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PC-User-Guest&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Malwandlarikhotso) 
+### 💼 What I Do
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*   **Architect & Build:** I design and implement end-to-end data pipelines, from ingestion to serving. My approach prioritizes scalability, resilience, and cost-effectiveness, whether it's a serverless batch process or a real-time streaming application.
+*   **Solve Complex Challenges:** I excel at navigating ambiguity and imperfect data. From handling unpredictable source schemas in regulatory reporting to implementing exactly-once processing semantics for fraud detection, I engineer solutions that are robust by design.
+*   **Drive Value Through Data:** I focus on the business impact of engineering work. The systems I build are not just technically sound—they automate manual processes, unlock new analytical capabilities, and provide stakeholders with trusted, timely data.
+*   **Lead with Code:** I believe in infrastructure as code (Terraform), pipeline as code, and clear, maintainable documentation. This ensures that solutions are reproducible, auditable, and easy for teams to operate and extend.
+
+---
+
+### 🛠️ Core Competencies
+
+*   **Cloud Platforms:** AWS (Certified) & GCP
+*   **Core Languages:** Python, SQL
+*   **Orchestration:** Apache Airflow, AWS Step Functions
+*   **Stream Processing:** Apache Flink, Amazon Kinesis
+*   **Data Warehousing & Lakes:** BigQuery, PostgreSQL, Amazon S3, Apache Iceberg
+*   **Transformations:** dbt
+*   **IaC & DevOps:** Terraform, Docker, GitHub Actions
+
+*(For a complete list of technologies, see the **# 💻 Tech Stack** section below.)*
+
+---
+
+### 🔭 Featured Projects
+
+Here are a few examples of my approach to data engineering:
+
+*   **Banking Regulatory Reporting & Risk Analytics Platform:** Automated the processing of quarterly FDIC Call Reports for 5,000+ banks. The solution uses a dynamic schema mapping system to handle unpredictable file formats, reducing a multi-day manual task to under one hour.
+*   **Real-Time Anomaly Detection with Kinesis and Flink:** Built a serverless streaming pipeline to detect fraudulent financial transactions with sub-second latency. The system performs stateful computations (e.g., moving averages, velocity checks) and scales to handle 10,000+ events per second.
+*   **Multi-Cloud Data Mesh with BigQuery and S3:** Prototyped a data mesh architecture spanning AWS and GCP, demonstrating how independent business domains can share data autonomously while enabling federated governance and cross-cloud analytics.
+
+---
+
+### 🌱 Current Focus
+
+I am currently deepening my expertise in **real-time stream processing** and exploring **DataOps** practices to further enhance the reliability and velocity of data platform delivery.
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in discussing data architecture, collaborating on challenging engineering problems, or connecting with fellow professionals.
+
+*   **LinkedIn:** [linkedin.com/in/malwandlakingrikhotso](https://linkedin.com/in/malwandlakingrikhotso)
+*   **Email:** [Malwandla.rikhotso1@gmail.com](mailto:Malwandla.rikhotso1@gmail.com)
+
+**Open to:** Full-time roles, freelance opportunities, and technical collaborations.
+
+---
