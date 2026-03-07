@@ -50,7 +50,6 @@ I am currently deepening my expertise in **real-time stream processing** and exp
 I'm always interested in discussing data architecture, collaborating on challenging engineering problems, or connecting with fellow professionals.
 
 *   **LinkedIn:** [linkedin.com/in/malwandlakingrikhotso](https://linkedin.com/in/malwandlakingrikhotso)
-*   **Email:** [Malwandla.rikhotso1@gmail.com](mailto:Malwandla.rikhotso1@gmail.com)
 
 **Open to:** Full-time roles, freelance opportunities, and technical collaborations.
 
