@@ -10,7 +10,7 @@ I design, build, and maintain production-grade data infrastructure that spans ba
 
 *   **Architect & Build:** I design and implement end-to-end data pipelines across AWS, Azure, and GCP. From serverless batch processing to event-driven streaming applications, my solutions prioritize scalability, resilience, and maintainability.
 *   **Solve Complex Challenges:** I navigate ambiguity and imperfect data with robust engineering. Whether it's handling unpredictable source schemas in regulatory reporting, achieving exactly-once processing semantics for fraud detection, or orchestrating multi-cloud data meshes, I deliver systems that are reliable by design.
-*   **Drive Value Through Data:** I focus on business impact—automating manual processes, enabling real-time analytics, and providing stakeholders with trusted, timely data. My work bridges the gap between raw data and strategic decision-making.
+*   **Drive Value Through Data:** I focus on business impact, automating manual processes, enabling real-time analytics, and providing stakeholders with trusted, timely data. My work bridges the gap between raw data and strategic decision-making.
 *   **Lead with Code & DevOps:** I practice infrastructure as code (Terraform), CI/CD (GitHub Actions, Azure DevOps), and containerization (Docker, Kubernetes). I believe in reproducible, auditable, and observable platforms that teams can confidently operate and extend.
 
 ---
