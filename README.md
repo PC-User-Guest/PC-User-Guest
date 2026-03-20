@@ -76,11 +76,11 @@ I design, build, and maintain production-grade data infrastructure that spans ba
 
 ---
 
-### 🔭 Featured Projects
+<!-- ### 🔭 Featured Projects
 
 *   **Banking Regulatory Reporting & Risk Analytics Platform:** Automated the processing of quarterly FDIC Call Reports for 5,000+ banks. The solution uses a dynamic schema mapping system to handle unpredictable file formats, reducing a multi-day manual task to under one hour. (AWS Lambda, Step Functions, Glue, RDS, S3, Terraform)
 *   **Real-Time Anomaly Detection with Kinesis and Flink:** Built a serverless streaming pipeline to detect fraudulent financial transactions with sub-second latency. The system performs stateful computations (e.g., moving averages, velocity checks) and scales to handle 10,000+ events per second. (AWS Kinesis, Kinesis Analytics, Flink, DynamoDB, SNS)
-*   **Multi-Cloud Data Mesh with BigQuery and S3:** Prototyped a data mesh architecture spanning AWS and GCP, demonstrating how independent business domains can share data autonomously while enabling federated governance and cross-cloud analytics. (Terraform, Airflow, dbt, BigQuery, S3, OpenLineage)
+*   **Multi-Cloud Data Mesh with BigQuery and S3:** Prototyped a data mesh architecture spanning AWS and GCP, demonstrating how independent business domains can share data autonomously while enabling federated governance and cross-cloud analytics. (Terraform, Airflow, dbt, BigQuery, S3, OpenLineage) 
 
 ---
 
@@ -89,7 +89,7 @@ I design, build, and maintain production-grade data infrastructure that spans ba
 I am deepening my expertise in **MLOps** and **real-time stream processing**, exploring how to bring machine learning models into production with tools like MLflow and Bedrock. I'm also actively working on **Data Mesh** and **Lakehouse** implementations to help organizations scale their data platforms.
 
 ---
-
+-->
 ### 🤝 Let's Connect
 
 I'm always interested in discussing data architecture, collaborating on challenging engineering problems, or connecting with fellow professionals.
