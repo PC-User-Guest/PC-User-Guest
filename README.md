@@ -47,7 +47,7 @@ I design, build, and maintain production-grade data infrastructure that spans ba
 ---
 ### 🌱 Current Focus
 
-I am deepening my expertise in **MLOps** and **real-time stream processing**, exploring how to bring machine learning models into production with tools like MLflow and Bedrock. I'm also actively working on **Data Mesh** and **Lakehouse** implementations to help organizations scale their data platforms.
+I am deepening my expertise in **MLOps** and **real-time stream processing**, exploring how to bring machine learning models into production with tools like MLflow and Bedrock. I'm also actively working on **Data Mesh**, **Schema Evolution Platform** and **Lakehouse** implementations to help organizations scale their data platforms.
 
 ---
 ### 🤝 Let's Connect
