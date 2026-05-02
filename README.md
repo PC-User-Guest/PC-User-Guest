@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Malwandla Rikhotso
+# 👋 Hello, I'm Malwandla King Rikhotso
 
 **Data Engineer | Architecting Scalable Pipelines | Cloud-Native Implementation**
 
