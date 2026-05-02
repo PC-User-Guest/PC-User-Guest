@@ -8,7 +8,7 @@ I design, build, and maintain production-grade data infrastructure that spans ba
 
 ### 💼 What I Do
 
-*   **Architect & Build:** I design and implement end-to-end data pipelines across AWS, Azure, and GCP. From serverless batch processing to event-driven streaming applications, my solutions prioritize scalability, resilience, and maintainability.
+*   **Architect & Build:** I design and implement end-to-end data pipelines across AWS and GCP. From serverless batch processing to event-driven streaming applications, my solutions prioritize scalability, resilience, and maintainability.
 *   **Solve Complex Challenges:** I navigate ambiguity and imperfect data with robust engineering. Whether it's handling unpredictable source schemas in regulatory reporting, achieving exactly-once processing semantics for fraud detection, or orchestrating multi-cloud data meshes, I deliver systems that are reliable by design.
 *   **Drive Value Through Data:** I focus on business impact, automating manual processes, enabling real-time analytics, and providing stakeholders with trusted, timely data. My work bridges the gap between raw data and strategic decision-making.
 *   **Lead with Code & DevOps:** I practice infrastructure as code (Terraform), CI/CD (GitHub Actions, Azure DevOps), and containerization (Docker, Kubernetes). I believe in reproducible, auditable, and observable platforms that teams can confidently operate and extend.
@@ -17,11 +17,11 @@ I design, build, and maintain production-grade data infrastructure that spans ba
 
 ### 🧠 Core Competencies
 
-- **Cloud Platforms:** AWS (Lambda, Step Functions, Kinesis, Glue, EMR, RDS, S3, OpenSearch, Bedrock), Azure (AKS, ADLS, ML Workspace), GCP (BigQuery, GCS, Cloud Functions)
+- **Cloud Platforms:** AWS (Lambda, Step Functions, Kinesis, Glue, EMR, RDS, S3), GCP (BigQuery, GCS, Cloud Functions)
 - **Stream Processing:** Apache Flink, Kinesis Data Analytics, Kafka, Spark Streaming, Event-Driven Architecture
 - **Batch Processing & Orchestration:** Apache Airflow, AWS Step Functions, dbt, Glue ETL, Spark, Terraform
-- **Storage & Databases:** Amazon S3, RDS (PostgreSQL), DynamoDB, OpenSearch, BigQuery, Data Lakes, Parquet, Avro
-- **DevOps & CI/CD:** GitHub Actions, Azure DevOps, Terraform, Docker, Kubernetes, Blue/Green Deployments, A/B Testing
+- **Storage & Databases:** Amazon S3, RDS (PostgreSQL), DynamoDB, BigQuery, Data Lakes, Parquet, Avro
+- **DevOps & CI/CD:** GitHub Actions, Terraform, Docker, Kubernetes, Blue/Green Deployments, A/B Testing
 - **Languages & Frameworks:** Python, Java, SQL, PySpark, FastAPI, Streamlit, MLflow, Great Expectations
 - **Data Architecture:** Data Mesh, Lakehouse, Lambda Architecture, Kappa Architecture, MLOps, Real-Time Analytics
 
@@ -30,31 +30,9 @@ I design, build, and maintain production-grade data infrastructure that spans ba
 ### 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Step Functions](https://img.shields.io/badge/AWS%20Step%20Functions-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon EMR](https://img.shields.io/badge/Amazon%20EMR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-FF9900?style=for-the-badge&logo=amazonrds&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Amazon Kinesis](https://img.shields.io/badge/Amazon%20Kinesis-FF9900?style=for-the-badge&logo=amazonkinesis&logoColor=white)
-![Amazon OpenSearch](https://img.shields.io/badge/Amazon%20OpenSearch-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-FF9900?style=for-the-badge&logo=amazonsns&logoColor=white)
-![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS CloudTrail](https://img.shields.io/badge/AWS%20CloudTrail-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure AKS](https://img.shields.io/badge/Azure%20AKS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure ADLS](https://img.shields.io/badge/Azure%20ADLS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=googlecloudstorage&logoColor=white)
-![Google Cloud Functions](https://img.shields.io/badge/Google%20Cloud%20Functions-4285F4?style=for-the-badge&logo=googlecloudfunctions&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -64,32 +42,14 @@ I design, build, and maintain production-grade data infrastructure that spans ba
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Great Expectations](https://img.shields.io/badge/Great%20Expectations-5A5A5A?style=for-the-badge&logo=great-expectations&logoColor=white)
-![OpenLineage](https://img.shields.io/badge/OpenLineage-000000?style=for-the-badge&logo=openlineage&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ---
-
-<!-- ### 🔭 Featured Projects
-
-*   **Banking Regulatory Reporting & Risk Analytics Platform:** Automated the processing of quarterly FDIC Call Reports for 5,000+ banks. The solution uses a dynamic schema mapping system to handle unpredictable file formats, reducing a multi-day manual task to under one hour. (AWS Lambda, Step Functions, Glue, RDS, S3, Terraform)
-*   **Real-Time Anomaly Detection with Kinesis and Flink:** Built a serverless streaming pipeline to detect fraudulent financial transactions with sub-second latency. The system performs stateful computations (e.g., moving averages, velocity checks) and scales to handle 10,000+ events per second. (AWS Kinesis, Kinesis Analytics, Flink, DynamoDB, SNS)
-*   **Multi-Cloud Data Mesh with BigQuery and S3:** Prototyped a data mesh architecture spanning AWS and GCP, demonstrating how independent business domains can share data autonomously while enabling federated governance and cross-cloud analytics. (Terraform, Airflow, dbt, BigQuery, S3, OpenLineage) 
-
----
-
 ### 🌱 Current Focus
 
 I am deepening my expertise in **MLOps** and **real-time stream processing**, exploring how to bring machine learning models into production with tools like MLflow and Bedrock. I'm also actively working on **Data Mesh** and **Lakehouse** implementations to help organizations scale their data platforms.
 
 ---
--->
 ### 🤝 Let's Connect
 
 I'm always interested in discussing data architecture, collaborating on challenging engineering problems, or connecting with fellow professionals.
